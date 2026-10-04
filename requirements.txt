@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+streamlit
+sqlalchemy
+python-dotenv
+pytest
+httpx
+email-validator
+PyMuPDF
+python-multipart
+sentence-transformers
+faiss-cpu

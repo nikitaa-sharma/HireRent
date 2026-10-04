@@ -1,0 +1,1 @@
+"""Hirent application package."""
